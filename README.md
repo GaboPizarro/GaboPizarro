@@ -8,7 +8,7 @@ Soy un profesional enfocado en transformar datos en soluciones reales y procesos
 - 📍 **Ubicación:** Residente en **Santiago, Chile** (disponibilidad total en la RM).
 - 🚀 **Logro destacado:** 1er lugar en la Expo Software PUCV con el proyecto **CheckPro**.
 - 🛠️ **Intereses:** Data Engineering, automatización de procesos (ETL) y aplicaciones prácticas de LLMs.
-- 🎓 **Formación:** Egresado en 2025 de la PUCV y **Titulado oficialmente en 2026**.
+- 🎓 **Formación:** Egresado en 2025 de la Pontificia Universidad Católica de Valparaíso (PUCV) y **Titulado oficialmente en 2026**.
 - 💡 **Visión:** Creo en la tecnología como una herramienta para simplificar lo complejo y optimizar el rendimiento organizacional.
 
 ---
@@ -73,7 +73,7 @@ I am a professional focused on transforming data into real-world solutions and e
 - 📍 **Location:** Based in **Santiago, Chile** (full availability for local roles).
 - 🚀 **Highlight:** 1st Place at PUCV Expo Software with the **CheckPro** project.
 - 🛠️ **Interests:** Data Engineering, ETL process automation, and practical LLM applications.
-- 🎓 **Education:** Graduated in 2025 and **officially licensed as a Civil Computer Engineer in 2026** (PUCV).
+- 🎓 **Education:** Graduated in 2025 and **officially licensed as a Civil Computer Engineer in 2026** from the Pontifical Catholic University of Valparaíso (PUCV).
 - 💡 **Vision:** I believe in technology as a tool to simplify the complex and optimize organizational performance.
 
 ---
