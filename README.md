@@ -4,12 +4,12 @@
 
 Soy un profesional enfocado en transformar datos en soluciones reales y procesos eficientes. Me motiva construir productos tecnológicos que perduren y generen valor, combinando mi formación analítica con un enfoque práctico en el desarrollo de software.
 
-- 🔍 **En búsqueda activa:** Abierto a nuevas oportunidades laborales y desafíos técnicos.
-- 📍 **Ubicación:** Residente en **Santiago, Chile** (disponibilidad total en la RM).
-- 🚀 **Logro destacado:** 1er lugar en la Expo Software PUCV con el proyecto **CheckPro**.
-- 🛠️ **Intereses:** Data Engineering, automatización de procesos (ETL) y aplicaciones prácticas de LLMs.
-- 🎓 **Formación:** Egresado en 2025 de la Pontificia Universidad Católica de Valparaíso (PUCV) y **Titulado oficialmente en 2026**.
-- 💡 **Visión:** Creo en la tecnología como una herramienta para simplificar lo complejo y optimizar el rendimiento organizacional.
+- **En búsqueda activa:** Abierto a nuevas oportunidades laborales y desafíos técnicos.
+- **Ubicación:** Residente en **Santiago, Chile** (disponibilidad total en la RM).
+- **Logro destacado:** 1er lugar en la Expo Software PUCV con el proyecto **CheckPro**.
+- **Intereses:** Data Engineering, automatización de procesos (ETL) y aplicaciones prácticas de LLMs.
+- **Formación:** Egresado en 2025 de la Pontificia Universidad Católica de Valparaíso (PUCV) y **Titulado oficialmente en 2026**.
+- **Visión:** Creo en la tecnología como una herramienta para simplificar lo complejo y optimizar el rendimiento organizacional.
 
 ---
 
